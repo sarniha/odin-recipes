@@ -1,0 +1,9 @@
+*{
+    outline:2px solid black;
+
+}
+h1{
+    margin: 30px;
+    padding:30px;
+    border-color: blueviolet;
+}
